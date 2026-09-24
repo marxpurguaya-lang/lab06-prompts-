@@ -123,3 +123,7 @@ La versión 3 agrega el rol, restricciones, ejemplos, validaciones y formato de 
 3. Aprendí que los componentes del prompt ayudan a organizar mejor una solicitud.
 4. Pude comprobar que mejorar un prompt permite obtener resultados más completos.
 5. Comprendí que la inteligencia artificial es una herramienta de apoyo y que debo revisar el resultado antes de utilizarlo.
+
+## Reflexión final
+
+Durante esta práctica comprendí que la calidad de una respuesta de IA depende en gran parte de cómo se formula el prompt. Al agregar contexto, restricciones y un formato específico, pude obtener resultados más claros y relacionados con lo solicitado.
