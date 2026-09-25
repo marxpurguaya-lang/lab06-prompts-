@@ -125,3 +125,30 @@ El archivo debe poder abrirse desde el README mediante:
 - [Bitácora de prompts](prompts/BITACORA.md)
 - [Tarea: mi prompt profesional](prompts/TAREA.md)
 ```
+
+### Evidencia de publicación
+
+Se realizó el envío de los archivos del laboratorio al repositorio de GitHub mediante `git push`. El resultado mostró `Everything up-to-date`, confirmando que los cambios locales ya estaban sincronizados con el repositorio remoto.
+
+**Capturas:**
+
+- Captura 1: ejecución de `git push`.
+- Captura 2: estado del repositorio con `git status`.
+- Captura 3: archivos publicados en GitHub.
+
+### 3. Guarda
+
+Presiona:
+
+**Ctrl + S → cierra el Bloc de notas.**
+
+### 4. Súbelo a GitHub
+
+En PowerShell:
+
+```powershell
+cd C:\Lab06D.I\lab06-prompts-
+git add .
+git commit -m "Completa tarea de prompt profesional"
+git push
+```
