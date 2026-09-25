@@ -152,3 +152,17 @@ git add .
 git commit -m "Completa tarea de prompt profesional"
 git push
 ```
+
+## Capturas de las iteraciones y del resultado
+
+### Iteración 1: Prompt básico
+
+![Captura de la iteración 1](../capturas/ejercicio6_prompt_basico.png)
+
+### Iteración 2: Prompt profesional
+
+![Captura de la iteración 2](../capturas/ejercicio6_prompt_profesional.png)
+
+### Resultado del prompt profesional
+
+![Captura del resultado](../capturas/ejercicio6_resultado.png)
