@@ -200,3 +200,17 @@ La temperatura influye en la variabilidad de las respuestas. Una temperatura baj
 ### d) ¿Qué componente del prompt consideras más importante?
 
 Considero que el contexto es uno de los componentes más importantes porque permite que la IA conozca la situación y el objetivo de la solicitud. Sin contexto, una instrucción puede ser demasiado general y producir una respuesta que no se ajuste a lo que necesito.
+
+### Capturas de las iteraciones
+
+**Captura 1: Prompt básico**
+
+![Prompt básico](../capturas/ejercicio6_prompt_basico.png)
+
+**Captura 2: Prompt profesional**
+
+![Prompt profesional](../capturas/ejercicio6_prompt_profesional.png)
+
+**Captura 3: Resultado del prompt profesional**
+
+![Resultado del prompt profesional](../capturas/ejercicio6_resultado.png)
