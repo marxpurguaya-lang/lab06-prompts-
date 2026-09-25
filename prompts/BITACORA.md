@@ -50,6 +50,8 @@ Primero ejecuté el programa con temperatura 0:
 java SimuladorTemperatura 0
 ```
 
+---
+
 ## Ejercicio 4: Prompt vago vs. estructurado
 
 ### Prompt vago
@@ -103,6 +105,8 @@ Prompt utilizado:
 
 Este ejercicio me permitió comprobar que un prompt con mayor nivel de detalle genera respuestas más precisas y alineadas con los requisitos planteados. Agregar contexto, restricciones y objetivos específicos ayuda a obtener mejores resultados.
 
+---
+
 ## Ejercicio 5: Anatomía de un prompt
 
 Para analizar la estructura de un prompt utilicé un ejemplo relacionado con Java.
@@ -124,6 +128,8 @@ Al separar el prompt en estos componentes comprendí que cada parte cumple una f
 ### Reflexión
 
 Este ejercicio me ayudó a entender que un prompt bien estructurado permite comunicar mejor lo que necesito y obtener una respuesta más relacionada con el objetivo.
+
+---
 
 ## Ejercicio 6: De prompt básico a profesional
 
@@ -160,6 +166,8 @@ Finalmente agregué requisitos detallados, restricciones, validaciones y un form
 
 ## La principal mejora fue pasar de una instrucción general a una solicitud con contexto, requisitos, restricciones y formato. Esto permitió reducir la ambigüedad y obtener una respuesta más cercana a lo que necesitaba.
 
+---
+
 ## Ejercicio 7: Publicación en GitHub
 
 ### Evidencia de publicación
@@ -174,3 +182,21 @@ git add .
 git commit -m "Actualiza bitacora"
 git push
 ```
+
+## Preguntas finales
+
+### a) ¿Qué diferencia existe entre un prompt básico y un prompt profesional?
+
+Un prompt básico da una instrucción general y deja muchas decisiones abiertas. En cambio, un prompt profesional incluye un rol, instrucciones claras, contexto, ejemplos, formato y restricciones. Esto permite obtener una respuesta más específica y cercana a lo que se necesita.
+
+### b) ¿Por qué es importante la ventana de contexto?
+
+La ventana de contexto es importante porque determina cuánta información puede considerar la IA al generar una respuesta. Si existe suficiente contexto, la IA puede relacionar mejor las instrucciones y los datos proporcionados.
+
+### c) ¿Qué efecto tiene la temperatura?
+
+La temperatura influye en la variabilidad de las respuestas. Una temperatura baja produce resultados más consistentes, mientras que una temperatura mayor puede generar resultados más variados.
+
+### d) ¿Qué componente del prompt consideras más importante?
+
+Considero que el contexto es uno de los componentes más importantes porque permite que la IA conozca la situación y el objetivo de la solicitud. Sin contexto, una instrucción puede ser demasiado general y producir una respuesta que no se ajuste a lo que necesito.
